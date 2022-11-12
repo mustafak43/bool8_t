@@ -4,11 +4,9 @@
 bool8_t is an unsigned 1 byte integer
 class that lets you to store 8 bools
 (8 bytes) in 1 byte.
-   
---------------------------------
+
 - use [] to access each value.
 - use set(index, value) to assign value.
---------------------------------
     
 To use effectively in actual coding,
 you better define your boolean names that
