@@ -1,5 +1,5 @@
 # bool8_t
-8 boolean values stored in 1 byte. It was originally created in 23rd May 2020.
+8 boolean values stored in 1 byte.
 
 bool8_t is an unsigned 1 byte integer
 class that lets you to store 8 bools
